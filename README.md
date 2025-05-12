@@ -11,15 +11,15 @@
 <a href="https://linkedin.com/in/abhishek-beniwal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" /></a>
 <a href="https://github.com/abhishekbeniwal57" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" height="30" width="40" alt="github" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhishekbeniwal57" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="gfg" /></a>
-<a href="https://www.hackerrank.com/abhishekbeniwal57" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="hackerrank" /></a>
+<a href="https://www.hackerrank.com/profile/abhishekbeniwal2" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="hackerrank" /></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C++, Java, JavaScript, HTML/CSS  
-- **Frameworks & Libraries**: React.js, Node.js, Express.js, Spring Boot  
+- **Languages**: C++, Java, Python, JavaScript, HTML/CSS  
+- **Frameworks & Libraries**: React.js, Node.js, Express.js, Spring Boot, FastApi  
 - **Databases**: MySQL, MongoDB  
 - **Tools**: Git, Docker, Postman, Spring Tool Suite (STS)  
 - **Concepts**: OOP, DBMS, Operating Systems, AWS Cloud Computing
@@ -49,15 +49,34 @@
 
 ## 📂 Projects
 
-- 🔗 [ReferralEase – Job Referral Platform](https://github.com/abhishekbeniwal57/referralease)
-  - JavaScript, React, Spring Boot, MySQL  
-  - Real-time notifications with WebSocket & Context API-based session management
+- 🔗 [ReferralEase – Job Referral Platform](https://github.com/abhishekbeniwal57/referralease)  
+  JavaScript, React, Spring Boot, MySQL  
+  ➤ Job referrals with WebSocket notifications and Context API-based session management
 
-- 🔗 [SQL Query Interface](https://github.com/abhishekbeniwal57/sql-query-interface)
-  - Built an interactive editor with virtualized rendering & syntax highlighting
+- 🔗 [SQL Query Interface](https://github.com/abhishekbeniwal57/sql-query-interface)  
+  ➤ Interactive SQL editor with syntax highlighting and real-time validation
 
-- 🔗 [Blog Website](https://github.com/abhishekbeniwal57/blog-website)
-  - Full-stack MERN blog app with secure auth, CRUD, and comment/like system
+- 🔗 [Store Monitoring System](https://github.com/abhishekbeniwal57/abhishek_18-04-25)  
+  ➤ This application monitors restaurant store status and generates reports of uptime and downtime during business hours.
+
+- 🔗 [Blog Website](https://github.com/abhishekbeniwal57/blog-website)  
+  ➤ MERN blog with secure auth, blog CRUD, and like/comment system
+
+- 🔗 [RSVP App](https://github.com/abhishekbeniwal57/rsvp-app)  
+  ➤ Event RSVP system for managing invites and responses
+
+- 🔗 [Smart Notes](https://github.com/abhishekbeniwal57/smart-notes)  
+  ➤ Web application for creating, editing, and managing notes with AI-powered       summarization and tag suggestions.
+
+- 🔗 [PostPulse](https://github.com/abhishekbeniwal57/PostPulse)  
+  ➤ Blog/post viewer with React and clean routing
+
+- 🔗 [Insurance Purchase App](https://github.com/abhishekbeniwal57/Insurancepurchase)  
+  ➤ Basic insurance app for policy management
+
+- 🔗 [Real Estate App](https://github.com/abhishekbeniwal57/RealEstate)  
+  ➤ Platform to explore property listings
+
 
 ---
 
