@@ -48,31 +48,21 @@
 ---
 
 ## 📂 Projects
+- 🔗 [Smart Notes](https://github.com/abhishekbeniwal57/smart-notes)  
+  ➤ Web application for creating, editing, and managing notes with AI-powered       summarization and tag suggestions.
 
-- 🔗 [ReferralEase – Job Referral Platform](https://github.com/abhishekbeniwal57/referralease)  
+- 🔗 [ReferralEase – Job Referral Platform]((https://github.com/abhishekbeniwal57/ReferralEase-Project))  
   JavaScript, React, Spring Boot, MySQL  
   ➤ Job referrals with WebSocket notifications and Context API-based session management
 
-- 🔗 [SQL Query Interface](https://github.com/abhishekbeniwal57/sql-query-interface)  
+- 🔗 [SQL Query Interface]((https://github.com/abhishekbeniwal57/beniwal_frontend_task))  
   ➤ Interactive SQL editor with syntax highlighting and real-time validation
 
 - 🔗 [Store Monitoring System](https://github.com/abhishekbeniwal57/abhishek_18-04-25)  
   ➤ This application monitors restaurant store status and generates reports of uptime and downtime during business hours.
 
-- 🔗 [Blog Website](https://github.com/abhishekbeniwal57/blog-website)  
+- 🔗 [Blog Website](https://github.com/abhishekbeniwal57/PostPulse)  
   ➤ MERN blog with secure auth, blog CRUD, and like/comment system
-
-- 🔗 [RSVP App](https://github.com/abhishekbeniwal57/rsvp-app)  
-  ➤ Event RSVP system for managing invites and responses
-
-- 🔗 [Smart Notes](https://github.com/abhishekbeniwal57/smart-notes)  
-  ➤ Web application for creating, editing, and managing notes with AI-powered       summarization and tag suggestions.
-
-- 🔗 [PostPulse](https://github.com/abhishekbeniwal57/PostPulse)  
-  ➤ Blog/post viewer with React and clean routing
-
-- 🔗 [Insurance Purchase App](https://github.com/abhishekbeniwal57/Insurancepurchase)  
-  ➤ Basic insurance app for policy management
 
 - 🔗 [Real Estate App](https://github.com/abhishekbeniwal57/RealEstate)  
   ➤ Platform to explore property listings
