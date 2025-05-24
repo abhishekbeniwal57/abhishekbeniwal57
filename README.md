@@ -51,11 +51,11 @@
 - 🔗 [Smart Notes](https://github.com/abhishekbeniwal57/smart-notes)  
   ➤ Web application for creating, editing, and managing notes with AI-powered       summarization and tag suggestions.
 
-- 🔗 [ReferralEase – Job Referral Platform]((https://github.com/abhishekbeniwal57/ReferralEase-Project))  
+- 🔗 [ReferralEase – Job Referral Platform](https://github.com/abhishekbeniwal57/ReferralEase-Project)
   JavaScript, React, Spring Boot, MySQL  
   ➤ Job referrals with WebSocket notifications and Context API-based session management
 
-- 🔗 [SQL Query Interface]((https://github.com/abhishekbeniwal57/beniwal_frontend_task))  
+- 🔗 [SQL Query Interface](https://github.com/abhishekbeniwal57/beniwal_frontend_task)  
   ➤ Interactive SQL editor with syntax highlighting and real-time validation
 
 - 🔗 [Store Monitoring System](https://github.com/abhishekbeniwal57/abhishek_18-04-25)  
