@@ -6,20 +6,26 @@
 
 ---
 
-## 🌐 Profiles
+<h3 align="left">🌐 Profiles:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-beniwal" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/abhishek-beniwal" target="_blank" title="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://github.com/abhishekbeniwal57" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" height="30" width="40" />
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/abhishekbeniwal57/" target="_blank" title="LeetCode">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/abhishekbeniwal57" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/abhishekbeniwal2" target="_blank" title="HackerRank">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="40"/>
 </a>
-<a href="https://www.hackerrank.com/profile/abhishekbeniwal2" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+&nbsp;&nbsp;
+
+<a href="https://auth.geeksforgeeks.org/user/abhishekbeniwal57" target="_blank" title="GeeksforGeeks">
+<img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/>
 </a>
 </p>
 
@@ -37,17 +43,17 @@
 
 ## 🏢 Experience
 
-### 💼 Software Engineer – :contentReference[oaicite:0]{index=0}
+### 💼 Software Engineer – Avaamo.ai
 - Built an **incremental LLM summarization pipeline**, reducing token usage by **60%**
 - Implemented **Redis-based rate limiting** for high-traffic APIs
 - Designed **dynamic config system (MongoDB)** enabling runtime updates without downtime
 
-### 💼 Software Developer Intern – :contentReference[oaicite:1]{index=1}
+### 💼 Software Developer Intern – Avaamo.ai
 - Developed backend services for AI-driven workflows
 - Improved reliability with **health checks, logging, and AWS S3 archival**
 - Strengthened **security, validation, and abuse prevention mechanisms**
 
-### 💼 AI Trainer – :contentReference[oaicite:2]{index=2}
+### 💼 AI Trainer – Outlier
 - Evaluated AI-generated code and applied **RLHF techniques**
 - Built test cases and solved complex coding problems
 
