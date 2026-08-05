@@ -47,8 +47,6 @@
 - Built an **incremental LLM summarization pipeline**, reducing token usage by **60%**
 - Implemented **Redis-based rate limiting** for high-traffic APIs
 - Designed **dynamic config system (MongoDB)** enabling runtime updates without downtime
-
-### 💼 Software Developer Intern – Avaamo.ai
 - Developed backend services for AI-driven workflows
 - Improved reliability with **health checks, logging, and AWS S3 archival**
 - Strengthened **security, validation, and abuse prevention mechanisms**
